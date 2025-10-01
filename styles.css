@@ -1,0 +1,20 @@
+html {font-family: sans-serif;}
+
+.page-title {
+    font-weight: 100;
+    font-size: 32px;
+    font-family: "Luckiest Guy", cursive;
+}
+
+.item {
+    background-color: rgb(211, 211, 211);
+    border-width: 2px;
+    border-style: solid;
+    border-color: magenta;
+    border-radius: 5px;
+    color: magenta;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    font-family: "Luckiest Guy", cursive;
+}
